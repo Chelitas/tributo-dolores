@@ -162,8 +162,9 @@ iframe{
 
 footer{
     background-color: rgb(20, 20, 20);
-    margin-top: 2rem;
+    margin-top: 3rem;
     box-sizing: border-box;
+    padding: 1rem;
 }
 
 .firma p{
